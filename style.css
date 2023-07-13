@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 25px;
+}
+
+h1 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+#quarterlyTotal {
+  height: 25px;
+}
+
+.submit {
+  height: 25px;
+}
+
+.dollar {
+  font-size: 20px;
+}
+
+#quarterlyTotal {
+  margin-bottom: 20px;
+}
+
+#miles-driven {
+  height: 25px;
+}
